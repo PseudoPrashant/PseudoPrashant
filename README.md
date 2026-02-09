@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 - 💻 Web Development Intern at **Qveto Technologies** (Jun 2025 – Present)
-- ⚡ Built responsive web apps using **React, Node.js, and MongoDB**, improving UI responsiveness by ~25% :contentReference[oaicite:1]{index=1}
-- 🔗 Integrated third-party APIs and optimized backend logic, reducing API latency by ~15% :contentReference[oaicite:2]{index=2}
+- ⚡ Built responsive web apps using **React, Node.js, and MongoDB**, improving UI responsiveness by ~25%
+- 🔗 Integrated third-party APIs and optimized backend logic, reducing API latency by ~15%
 - 🧠 Strong interest in **Backend Development, REST APIs, and Database-driven Applications**
 - 🎥 Former freelancer in **Design & Video Editing** (After Effects, Premiere Pro)
 - 📍 Based in **Greater Noida, India**
