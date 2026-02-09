@@ -16,29 +16,38 @@
 ---
 
 ## 🚀 About Me
-- 💻 Junior Software Developer focused on **Backend + Web Development**
-- 🔥 Skilled in **PHP, MySQL, JavaScript, Node.js**
-- 🌐 Experienced in building **CRUD Applications, REST APIs, and Admin Dashboards**
+- 💻 Web Development Intern at **Qveto Technologies** (Jun 2025 – Present)
+- ⚡ Built responsive web apps using **React, Node.js, and MongoDB**, improving UI responsiveness by ~25% :contentReference[oaicite:1]{index=1}
+- 🔗 Integrated third-party APIs and optimized backend logic, reducing API latency by ~15% :contentReference[oaicite:2]{index=2}
+- 🧠 Strong interest in **Backend Development, REST APIs, and Database-driven Applications**
+- 🎥 Former freelancer in **Design & Video Editing** (After Effects, Premiere Pro)
 - 📍 Based in **Greater Noida, India**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- PHP, JavaScript (ES6+), Python, C++
+### Languages & Frameworks
+- Python, JavaScript (ES6+), C
+- React.js, Node.js, Express.js
+- HTML, CSS, MongoDB
+- PHP, MySQL
 
-### Frontend
-- HTML, CSS, Bootstrap, Tailwind CSS, React.js
+### Tools & Platforms
+- Git, GitHub, VS Code
+- Power BI, Excel
+- MATLAB (Basic)
 
-### Backend
-- PHP (Core), Node.js, Express.js
+### Core CS
+- OOP, DBMS, Operating Systems, DSA
 
-### Database
-- MySQL, MongoDB
+### Creative Tools
+- Adobe After Effects, Premiere Pro
+- Photoshop, Illustrator, Canva
 
-### Tools
-- Git, GitHub, Postman, VS Code
+### Soft Skills
+- Team Collaboration, Communication, Leadership
+- Event Management, Time Management
 
 ---
 
