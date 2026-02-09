@@ -138,3 +138,6 @@ REST API project for managing book reviews and user operations.
 
 ---
 ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
+
