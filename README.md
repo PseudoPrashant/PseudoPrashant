@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar Sharma</h1>
-<h3 align="center">Junior Software Developer | PHP • MySQL • JavaScript • Node.js • REST APIs</h3>
+<h3 align="center">Full Stack Developer | Systems • Networking • AI</h3>
 
 <p align="center">
   <a href="mailto:pseudoprashant@gmail.com">
@@ -16,117 +16,100 @@
 ---
 
 ## 🚀 About Me
-- 💻 Web Development Intern at **Qveto Technologies** (Jun 2025 – Present)
-- ⚡ Built responsive web apps using **React, Node.js, and MongoDB**, improving UI responsiveness by ~25%
-- 🔗 Integrated third-party APIs and optimized backend logic, reducing API latency by ~15%
-- 🧠 Strong interest in **Backend Development, REST APIs, and Database-driven Applications**
-- 🎥 Former freelancer in **Design & Video Editing** (After Effects, Premiere Pro)
-- 📍 Based in **Greater Noida, India**
+- 💻 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**
+- ⚙️ Built systems involving **networking, secure communication, and IoT-level debugging**
+- 🧠 Developed AI-based tools using **NLP and Machine Learning**
+- 🔧 Strong in **REST APIs, backend architecture, and debugging complex systems**
+- 📍 Based in India
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-- Python, JavaScript (ES6+), C
-- React.js, Node.js, Express.js
-- HTML, CSS, MongoDB
-- PHP, MySQL
+**Languages:**  
+JavaScript, Python, C++
 
-### Tools & Platforms
-- Git, GitHub, VS Code
-- Power BI, Excel
-- MATLAB (Basic)
+**Frontend:**  
+React.js, Tailwind CSS, HTML, CSS  
 
-### Core CS
-- OOP, DBMS, Operating Systems, DSA
+**Backend:**  
+Node.js, Express.js, REST APIs  
 
-### Creative Tools
-- Adobe After Effects, Premiere Pro
-- Photoshop, Illustrator, Canva
+**Database:**  
+MongoDB  
 
-### Soft Skills
-- Team Collaboration, Communication, Leadership
-- Event Management, Time Management
+**Systems & Networking:**  
+Socket Programming, Packet Design, Secure Communication  
 
----
+**AI/ML:**  
+NLP, scikit-learn  
 
-## 📌 Featured Projects
-
-### 🔹 Employee Management System (PHP + MySQL)
-A complete admin dashboard system for managing employee records.
-
-✅ Admin Authentication (Sessions)  
-✅ Employee CRUD (Add / Edit / Delete / View)  
-✅ Search by Name/Email + Department Filter  
-✅ Responsive UI with Modern Styling  
-
-🔗 Repo: https://github.com/PseudoPrashant/employee-management-system
+**Tools:**  
+Git, GitHub, Qt Creator, Android SDK/NDK  
 
 ---
 
-### 🔹 AI Interview Assistant
-AI-powered mock interview assistant with automated evaluation and feedback.
+## 📌 Featured Work
 
-🔗 Repo: https://github.com/PseudoPrashant/ai-interview-assistant
+### 🔹 Secure Media Streaming System
+Secure real-time media transmission system with custom packet protocol and encryption.
+
+- AES-256 encryption & HMAC authentication  
+- Custom packet structure with metadata & integrity checks  
+- TCP-based communication with reliability handling  
+
+🔗 https://github.com/PseudoPrashant/secure-media-stream
+
+---
+
+### 🔹 QOpenHD Android Build & Debugging
+Worked on a complex open-source drone telemetry system.
+
+- Configured Qt + Android build environment  
+- Resolved GStreamer, NDK & dependency issues  
+- Modified UI and ensured stable execution  
+
+🔗 https://github.com/PseudoPrashant/QOpenHD
 
 ---
 
 ### 🔹 AI Resume Matcher
-Resume-to-job description matching tool to calculate match score and missing skills.
+NLP-based system to match resumes with job descriptions.
 
-🔗 Repo: https://github.com/PseudoPrashant/AI-resume-matcher
+- Match scoring & skill gap detection  
+- Backend API for analysis  
 
----
-
-### 🔹 Portfolio Website
-Personal portfolio website showcasing projects, skills and work.
-
-🔗 Repo: https://github.com/PseudoPrashant/Portfolio
+🔗 https://github.com/PseudoPrashant/AI-resume-matcher
 
 ---
 
-### 🔹 Expense Tracker (Frontend)
-Frontend UI for expense tracking application.
+### 🔹 AI Interview Assistant
+AI-powered mock interview system with response evaluation.
 
-🔗 Repo: https://github.com/PseudoPrashant/expense-tracker-frontend
-
----
-
-### 🔹 Expense Tracker (Backend)
-Backend API for expense tracking application.
-
-🔗 Repo: https://github.com/PseudoPrashant/expense-tracker-backend
+🔗 https://github.com/PseudoPrashant/ai-interview-assistant
 
 ---
 
-### 🔹 Book Review API
-REST API project for managing book reviews and user operations.
+### 🔹 Expense Tracker (Full Stack)
+Full stack expense management system.
 
-🔗 Repo: https://github.com/PseudoPrashant/book-review-api
+- Authentication + REST APIs  
+- Analytics dashboard  
+
+🔗 Frontend: https://github.com/PseudoPrashant/expense-tracker-frontend  
+🔗 Backend: https://github.com/PseudoPrashant/expense-tracker-backend  
 
 ---
 
 ## 🏆 Achievements
-- Ranked **6th out of 108 teams** in SHRINIK Coding Festember (GLBITM)
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PseudoPrashant&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
+- Ranked **6th out of 108 teams** in coding competition  
 
 ---
 
 ## 📫 Contact
 📧 Email: pseudoprashant@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/pseudoprashant/  
-📍 Location: Greater Noida, India  
+🔗 LinkedIn: https://linkedin.com/in/pseudoprashant  
 
 ---
-⭐ If you like my work, consider starring my repositories!
 
-
+⭐ If you find my work interesting, consider giving a star!
