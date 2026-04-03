@@ -55,8 +55,15 @@ https://github.com/PseudoPrashant/AI-resume-matcher
 🔗 Frontend: https://github.com/PseudoPrashant/expense-tracker-frontend
 🔗 Backend: https://github.com/PseudoPrashant/expense-tracker-backend
 
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/> <img src="https://streak-stats.demolab.com?user=PseudoPrashant&theme=tokyonight&hide_border=true" height="150"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoPrashant&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoPrashant&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 🏆 Highlights
 🥇 Ranked Top 6 / 108 teams in coding competition
