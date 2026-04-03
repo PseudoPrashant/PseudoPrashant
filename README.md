@@ -1,57 +1,70 @@
-<h1 align="center">Hi there, I'm Prashant Kumar Sharma 👋</h1>
-<h3 align="center">Full Stack Developer | Systems • Networking • AI</h3>
+<h1 align="center">Hi 👋, I'm Prashant Kumar Sharma</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Systems+%7C+Networking+%7C+AI;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <a href="mailto:pseudoprashant@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/pseudoprashant">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/pseudoprashant/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/PseudoPrashant">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-```json
-{
-  "name": "Prashant",
-  "role": "Full Stack Developer",
-  "focus": ["Backend Systems", "Networking", "AI Integration"],
-  "experience": [
-    "Full Stack Development (React, Node, MongoDB)",
-    "IoT & Embedded Systems Exposure",
-    "Secure Communication Systems"
-  ],
-  "location": "India",
-  "fun_fact": "Top 6 / 100 teams in a major Coding Competition 🏆"
-}
+- 💻 Full Stack Developer (React, Node, MongoDB)  
+- ⚙️ Working on **Systems, Networking & Secure Communication**  
+- 🤖 Building AI tools using **NLP & ML**  
+- 🔧 Strong in **Backend, APIs & Debugging complex systems**  
 
-🛠️ Tech Stack
-🚀 Featured Projects
-🔒 Secure Media Streaming System
+---
 
-Focus: Secure Media Transmission
+## ⚡ Tech Stack
 
-Tech: AES 256 Encryption, HMAC Authentication, Custom Packet Protocol, TCP Communication
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,git,github" />
+</p>
 
-📱 QOpenHD Android Build
+---
 
-Focus: Android Build & C++ Debugging
+## 🚀 Featured Work
 
-Tech: Qt Creator, Android SDK/NDK, GStreamer
+### 🔹 Secure Media Streaming System
+```diff
++ AES-256 Encryption | HMAC Auth | Custom Packet Protocol | TCP Communication
+https://github.com/PseudoPrashant/secure-media-stream
 
-🤖 AI Resume Matcher
+🔹 QOpenHD Android Build
++ Qt Creator | Android SDK/NDK | GStreamer | C++ Debugging
+https://github.com/PseudoPrashant/QOpenHD
 
-Focus: NLP-based Application
+🔹 AI Resume Matcher
++ NLP | Feature Engineering | FastAPI
+https://github.com/PseudoPrashant/AI-resume-matcher
 
-Tech: NLP, Feature Engineering, FastAPI
+🔹 Expense Tracker (Full Stack)
++ React | Node.js | MongoDB | JWT Auth | REST APIs
+🔗 Frontend: https://github.com/PseudoPrashant/expense-tracker-frontend
+🔗 Backend: https://github.com/PseudoPrashant/expense-tracker-backend
 
-💰 Expense Tracker
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PseudoPrashant&theme=tokyonight&hide_border=true" height="150"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PseudoPrashant&theme=tokyo-night&hide_border=true"/> </p>
 
-Focus: Full Stack Web App with JWT Auth and REST APIs
+🏆 Highlights
+🥇 Ranked Top 6 / 108 teams in coding competition
+⚙️ Built projects across Web + AI + Systems domains
 
-Links: Frontend Repo | Backend Repo
+📫 Connect
+email: pseudoprashant@gmail.com
+linkedin: linkedin.com/in/pseudoprashant
+location: India
 
-Tech: React, Node.js, MongoDB
+⭐ Star a repo if something helped you!
