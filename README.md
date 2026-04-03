@@ -58,11 +58,7 @@ https://github.com/PseudoPrashant/AI-resume-matcher
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoPrashant&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PseudoPrashant&theme=tokyonight&hide_border=true"/>
 </p>
 
 🏆 Highlights
