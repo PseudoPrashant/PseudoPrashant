@@ -2,8 +2,8 @@ name: Generate GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Create assets folder
+        run: mkdir -p assets
 
       - name: Generate stats card
         uses: lowlighter/metrics@latest
@@ -24,20 +29,11 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
           filename: assets/stats.svg
-          # ── visual options ──────────────────────────────────────────────
           config_display: large
           config_animations: yes
-          # dark theme matching your README palette
-          config_padding: 10
-          extras_css: |
-            :root {
-              --color-canvas-default: #0d1117;
-              --color-canvas-subtle:  #161b22;
-              --color-border-default: #21262d;
-              --color-fg-default:     #e6edf3;
-              --color-fg-muted:       #8b949e;
-              --color-accent-fg:      #00f7ff;
-            }
+          output_action: commit
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "chore: update stats.svg [skip ci]"
 
       - name: Generate top languages card
         uses: lowlighter/metrics@latest
@@ -51,25 +47,10 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recently_used: no
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           filename: assets/langs.svg
           config_timezone: Asia/Kolkata
-          extras_css: |
-            :root {
-              --color-canvas-default: #0d1117;
-              --color-canvas-subtle:  #161b22;
-              --color-border-default: #21262d;
-              --color-fg-default:     #e6edf3;
-              --color-fg-muted:       #8b949e;
-              --color-accent-fg:      #00f7ff;
-            }
-
-      - name: Commit updated SVGs
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/langs.svg
-          git diff --cached --quiet || git commit -m "chore: update stats SVGs [skip ci]"
-          git push
+          output_action: commit
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "chore: update langs.svg [skip ci]"
