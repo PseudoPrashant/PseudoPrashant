@@ -123,9 +123,10 @@ prashant = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PseudoPrashant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3" alt="GitHub Stats" height="160"/>
+<!-- Stats SVGs are auto-generated daily by GitHub Actions → .github/workflows/stats.yml -->
+<img src="./assets/stats.svg" alt="GitHub Stats" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoPrashant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3" alt="Top Languages" height="160"/>
+<img src="./assets/langs.svg" alt="Top Languages" height="160"/>
 
 </div>
 
